@@ -1,3 +1,9 @@
-.red {
-    color:red;
+.sidebar {
+    float: left;
+    width: 30%;
+}
+
+.content{
+    float: left;
+    width: 70%;
 }
