@@ -12,9 +12,18 @@
     width: 850px;
 }
 
-.block{
+.block1{
     vertical-align: top;
     display: inline-block;
     background-color: rgb(235, 229, 222);
-    
+    width: 350px;
+    height: 400px;
+}
+
+.block2{
+    vertical-align: top;
+    display: inline-block;
+    background-color: rgb(235, 229, 222);
+    width: 400px;
+    height: 400px;
 }
