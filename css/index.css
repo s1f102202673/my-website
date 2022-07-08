@@ -8,6 +8,16 @@
     width: 80%;
 }
 
+.sidebar2 {
+    float: left;
+    width: 40%;
+}
+
+.content2 {
+    float: left;
+    width: 60%;
+}
+
 
 header {
     padding: 30px 4% 10px;
@@ -79,7 +89,14 @@ img {
     width: 400px;
     height: 400px;
 }
+
 .ikebukuro {
     display: flex;
     justify-content: center;
 }
+
+.rannking {
+    display: flex;
+    justify-content: center;
+}
+
