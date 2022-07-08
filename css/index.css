@@ -33,6 +33,16 @@
 
 }
 
+.sidebar2 {
+    float: left;
+    width: 40%;
+}
+
+.content2 {
+    float: left;
+    width: 60%;
+}
+
 header {
     position: fixed;
     top: 0;
@@ -55,7 +65,7 @@ header h1 {
     font-size: 70px;
     font-family: 'Noto Serif JP', sans-serif;
     color: white;
- }
+}
 
  
 .mainvisual h2{
@@ -126,8 +136,14 @@ a{
     color:inherit;
     text-decoration: none;
 }
-
 .ikebukuro {
     display: flex;
     justify-content: center;
 }
+
+.rannking {
+    display: flex;
+    justify-content: center;
+}
+
+
