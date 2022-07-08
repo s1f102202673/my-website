@@ -79,4 +79,7 @@ img {
     width: 400px;
     height: 400px;
 }
-
+.ikebukuro {
+    display: flex;
+    justify-content: center;
+}
