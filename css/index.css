@@ -83,8 +83,8 @@ header h1 {
     background-color: rgb(235, 229, 222);
     
 }
-img{max-width: 100%;
-    max-height: 100%;}
+img{max-width: 300%;
+    max-height: 300%;}
    .cat1 {
     height: 200px;
     width: 200x;
