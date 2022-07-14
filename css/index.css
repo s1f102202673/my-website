@@ -25,6 +25,8 @@
     color: #fff;
     list-style: none;
     font-family: 'Noto Serif JP', sans-serif;
+    margin: 0px;
+    padding: 0 10px 0 10px;
 }
 
 .content {
@@ -33,13 +35,13 @@
 }
 
 .sidebar2 {
-    float: left;
-    width: 40%;
+    width: 30%;
+    margin: 10px 0 10px 20px;
 }
 
 .content2 {
-    float: left;
-    width: 60%;
+    width: 70%;
+    margin: 10px 0 10px 0;
 }
 
 header {
@@ -90,6 +92,8 @@ img {
    .cat1 {
     height: 200px;
     width: 200x;
+    display: flex;
+    justify-content: center;
    }
    .cat {
     width: 350px;
@@ -140,7 +144,7 @@ a{
     justify-content: center;
 }
 
-.rannking {
+.number {
     display: flex;
     justify-content: center;
 }
@@ -161,4 +165,46 @@ a{
 img{
     width: 300px;
     height: 200px;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+}
+
+.explanation {
+    margin: 10px 10px 10px 10px;
+}
+
+.content2 > h2 {
+    margin: 0 10px 0 10px;
+    border-bottom: solid 1px #cccccc;
+}
+
+.explanation > h3 {
+    margin: 10px 10px 10px 0px;
+    border-bottom: solid 3px #CCCC33;
+}
+
+.explanation > p {
+    margin: 5px 10px 10px 0px;
+}
+
+
+.sidebar3 {
+    width: 40%;
+    margin: 0;
+}
+
+.content3 {
+    width: 60%;
+    margin: 0;
+}
+
+.sidebar3 > li {
+    display: block;
+}
+
+.content3 > li {
+    display: block;
 }
