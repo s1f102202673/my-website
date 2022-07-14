@@ -87,6 +87,23 @@ header h1 {
 }
 .trainmap{height:400px;width:400px;}
    .cat1 {
+    margin-top: 100px;
+    height: 200px;
+    width: 200x;
+    display: flex;
+    justify-content: center;
+   }
+
+   .cat2 {
+    margin-top: 580px;
+    height: 200px;
+    width: 200x;
+    display: flex;
+    justify-content: center;
+   }
+
+   .cat3 {
+    margin-top: 500px;
     height: 200px;
     width: 200x;
     display: flex;
@@ -224,6 +241,26 @@ img.trainmap{
 }
 
 #container3 {
+    display: flex;
+    flex-direction: row;
+}
+
+#container4 {
+    display: flex;
+    flex-direction: row;
+}
+
+#container5 {
+    display: flex;
+    flex-direction: row;
+}
+
+#container6 {
+    display: flex;
+    flex-direction: row;
+}
+
+#container7 {
     display: flex;
     flex-direction: row;
 }
