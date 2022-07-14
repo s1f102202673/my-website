@@ -85,8 +85,7 @@ header h1 {
     background-color: rgb(235, 229, 222);
     
 }
-img{max-width: 100%;
-    max-height: 100%;}
+.trainmap{height:400px;width:400px;}
    .cat1 {
     height: 200px;
     width: 200x;
@@ -165,7 +164,10 @@ img{
     width: 300px;
     height: 200px;
 }
-
+img.trainmap{
+    width: 800px;
+    height: 400px;
+}
 #container {
     display: flex;
     flex-direction: row;
