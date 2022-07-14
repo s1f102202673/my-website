@@ -164,7 +164,10 @@ img{
     width: 300px;
     height: 200px;
 }
-
+img.trainmap{
+    width: 800px;
+    height: 400px;
+}
 #container {
     display: flex;
     flex-direction: row;
