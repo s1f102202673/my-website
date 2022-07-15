@@ -173,12 +173,14 @@ a{
 .class1{
     font-size: 30px;
     width: 90%;
-    color:#98fb98
+    color:#245980;
+    margin: 20px;
+    padding: 20px;
 }
 .class2{
     font-size: 20px;
     width: 90%;
-    color:#afeeee
+    color:#8d48b5
 }
 img{
     width: 300px;
@@ -273,4 +275,3 @@ h1 {
 table, td, th {
      border: 2px #808080 solid; 
 }
-
